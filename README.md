@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanweer1
+- 👋 Hi, I’m @tanweer
 - 👀 I’m interested in Competitive coding
 - 🌱 I’m currently learning c language 
 - 📫 How to reach me tanweer65700@gmail.com
