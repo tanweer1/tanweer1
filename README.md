@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/tanweer-alam-615144216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBp87LrbiTxypXifGaiqalA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanweer alam" height="30" width="40" /></a>
 <a href="https://instagram.com/tanweeralam_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tanweeralam_" height="30" width="40" /></a>
-<a href="https://x.com/tanweer18_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="_tanweeralam_" height="30" width="40" /></a>
+<a href="https://x.com/tanweer18_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/X.svg" alt="_tanweeralam_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
